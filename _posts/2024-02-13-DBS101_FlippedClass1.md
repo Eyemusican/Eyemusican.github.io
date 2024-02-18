@@ -58,10 +58,10 @@ They are the user who access the data-base occasionally with new information. Fo
 
 # 8. Specialized users:
 They are user who are familiar with database and write specialized database application that does not fit into the traditional data-processing framework.
----
+
 
 The above studies is accomplished due to attaining Flipped class where four groups, each group containing six or seven students are divided into two topics mentioned above. In respective groups formed, we discuss around twenty minutes where each member shares knowledge about respective topic given. That way we learn more and after twenty minutes another group is formed for another twenty minutes to share our knowledge with other group who are in different topic in exchange of their knowlege. Lastly, after twenty minutes, question and answer sesssion between lectural and students are done for fifteen minutes.
----
+
 
 
 My suggestion on improvement of flipped class is that if miss could send notes along with vedios, It would help much more to understand that particular topic.
