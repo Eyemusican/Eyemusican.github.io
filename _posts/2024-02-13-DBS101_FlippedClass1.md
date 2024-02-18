@@ -5,14 +5,15 @@ tags : [DBS101]
 ---
 
 ### Topic : Database Users and Database Administrator
-
 ---
+
 
 Hey! Have you ever heard about Data-base Administrator, if not this page is for you as I will share knowledge about Data-base Administrator roles, functions and different types of database user that I have learned during flipped class.
 
 Firstly, let us understand what Data-base Administrator is before going into depth.
 From my understanding, Data-base Administrator is a role in Computer System Administrator where different people works together in creating and maintaining secure database. With this simple understanding let us Go further where I will explain the roles and responsibilities of Data-base Adminstrator and their function.
 ---
+
 
 ## i. Data-base Administrator Roles and Responsibilities
 There are many roles and responsibilities of DBA but I will mention out only five important points:
@@ -35,6 +36,7 @@ We have come to an end of functions and roles of DBA.
 
 Lastly, I am going to explain about different types of data-base user. There are eight types of data-base users in Data Base Management System including data-base administrator which I have explained briefly above. 
 ---
+
 
 ## ii. The other new Data-base user are:
 
@@ -61,11 +63,11 @@ They are user who are familiar with database and write specialized database appl
 ---
 
 The above studies is accomplished due to attaining Flipped class where four groups, each group containing six or seven students are divided into two topics mentioned above. In respective groups formed, we discuss around twenty minutes where each member shares knowledge about respective topic given. That way we learn more and after twenty minutes another group is formed for another twenty minutes to share our knowledge with other group who are in different topic in exchange of their knowlege. Lastly, after twenty minutes, question and answer sesssion between lectural and students are done for fifteen minutes.
----
+
 
 
 My suggestion on improvement of flipped class is that if miss could send notes along with vedios, It would help much more to understand that particular topic.
----
+
 
 
 
