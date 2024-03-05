@@ -22,12 +22,12 @@ The simplest form of neural network consisting only perceptrons is called Single
 To talk about more, they are not capable of solving complex problems and can only learn to classify data. The result for this perceptron is binnary, classification decision.
 
 Lastly, I will jot down variables associated with modelling a single neuron;
-a. Input(x)--> symbol
-b. Weights(w)
-c. Bias(b)
-d. Weighted sum(z)
-e. Activation function(t)
-f. Output(y)
+1. Input(x)--> symbol
+2. Weights(w)
+3. Bias(b)
+4. Weighted sum(z)
+5. Activation function(t)
+6. Output(y)
 
 To give a simple description: A signal is received by a neuron from other neurons. Each signal (input) has a weight that contributes to the neuron's output. The bias allows the neuron to capture patterns even when the inputs are zero. Next, multiplying and adding the input weights together and adding the bias term is done at the weighted sum. Then, the activation function allows the neuron to learn complex patterns and finally determines the output.
 
