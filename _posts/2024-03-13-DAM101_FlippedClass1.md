@@ -23,7 +23,7 @@ The result for the above procedure is they learn, make decisions and mimicking h
 
 
 Let us go through the differences between Machine Learning (ML) and Deep Learning (AI)
-![alt text](1-4.png)
+![alt text](../1-4.png)
 In summary,AI aims in focusing on developing deep neural networks capable of handling complex, unstructured data and make intelligent decisions. Whereas ML aims to develop MAthematical algorithms and models that can automatically learn patterns and relationships from data and make accurate prediction.
 
 
@@ -47,10 +47,30 @@ It consists of several components:
 6. Output(y)
 
 
-![alt text](1-3.png)
+![alt text](../1-3.png)
+
+To give a simple description from my understanding : A signal is received by a neuron from other neurons. Each signal (input) has a (weight) that contributes to the neuron's output. The (bias) allows the neuron to capture patterns even when the inputs are zero. Next, multiplying and adding the input weights together and adding the bias term is done at the weighted sum(summation function). Then, the (activation function) allows the neuron to learn complex patterns and finally determines the (output).
 
 
-To give a simple description: A signal is received by a neuron from other neurons. Each signal (input) has a (weight) that contributes to the neuron's output. The (bias) allows the neuron to capture patterns even when the inputs are zero. Next, multiplying and adding the input weights together and adding the bias term is done at the weighted sum(summation function). Then, the (activation function) allows the neuron to learn complex patterns and finally determines the (output).
+#### Why are neural networks important?
+---
+It help computers make intelligent decisions, this is because they can learn and model the relationships between input and output data.
+![alt text](../atypical_ann.jpg)
+
+
+#### What are neural networks used for?
+---
+1. Supervised learning :
+In supervised learning, we have a dataset that contains inputs (like images or text) and their matching target outputs (like the object in the image or the sentiment expressed in the text). The machine learning model looks at many of these labeled examples and figures out the patterns that connect the inputs to the expected outputs. E.g: convolutional neural networks 
+
+2. Un-Supervised learning :
+Plain data goes straight into the neural network to teach it. This lets the neural network discover hidden patterns and connections in the data that are not clear. But how well the neural network works and what it can do depends on the particular settings it is given, like the learning speed and number of layers.
+
+
+
+
+
+
 
 
 
