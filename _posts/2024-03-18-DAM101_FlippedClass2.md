@@ -1,6 +1,6 @@
 ---
 Title : DAM101 Flipped class 2
-categories : [DAM201, Flipped_Class2]
+categories : [DAM101, Flipped_Class2]
 tags : [DAM101]
 ---
 

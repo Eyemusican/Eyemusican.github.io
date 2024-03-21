@@ -1,10 +1,10 @@
 ---
 Title : DAM101 Flipped class 1
-categories : [DAM201, Flipped_Class1]
+categories : [DAM101, Journal_1]
 tags : [DAM101]
 ---
 
-### What I learned during flipped class!
+
 
 ---
 
@@ -24,6 +24,8 @@ The result for the above procedure is they learn, make decisions and mimicking h
 
 Let us go through the differences between Machine Learning (ML) and Deep Learning (AI)
 ![alt text](../1-4.png)
+
+
 In summary,AI aims in focusing on developing deep neural networks capable of handling complex, unstructured data and make intelligent decisions. Whereas ML aims to develop MAthematical algorithms and models that can automatically learn patterns and relationships from data and make accurate prediction.
 
 
