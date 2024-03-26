@@ -174,6 +174,7 @@ After our group discussions, one of us presented our examples and explanations f
 
 ### Feed-back 
 ---
+
 Overall, the Flipped Class was a good way for me to learn by working together in groups and giving presentations. I practiced using what I learned about Normal Forms through group discussions and presentations. This way of learning helped me understand the topic better.
 
 
