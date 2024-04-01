@@ -8,7 +8,7 @@ tags : [DAM101]
 
 ---
 
-Hello there, I'm Tenzin Namgay, and this is my  journal entry about what I learned during the flipped class. I hope you are excited to learn about Deep learning fundamentals, which is the topic for this journal. Without any further, let's get started.
+Hello there, I'm Tenzin Namgay, and this is my first journal entry. I hope you are excited to learn about Deep learning fundamentals, which is the topic for this journal. Without any further, let's get started.
 Firstly, let us understand what Artifical Intelligence is before going into depth.
 
 AI is started by Arthur Samuel at ninteenth century, it is a machine and has ability to mimic human behaviour.
