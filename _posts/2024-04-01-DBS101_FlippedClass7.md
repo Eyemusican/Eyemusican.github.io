@@ -59,7 +59,7 @@ Now with the above understanding, let us go through some important procedures to
 6. Maintenance and Optimization: Check database over time to make sure it keeps working well and make improvements.
 
 
-### Data Structure Used
+### Data Structure Used for building a relational database from scractch.
 ---
 
 #### B-trees
