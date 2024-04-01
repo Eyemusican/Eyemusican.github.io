@@ -79,5 +79,10 @@ I hope it will be a useful article for you. Follow me:
 ```
 
 ### Stemming and lemmatization
+Stemming and lemmatization are two text preprocessing techniques used to reduce words to their base or root form. The primary goal of these techniques is to reduce the number of unique words in a text document, making it easier to analyze and understand.
 
+![alt text](../24.png)
+
+DIfferences between Stemming and lemmatization:
+![alt text](../34.png)
 
