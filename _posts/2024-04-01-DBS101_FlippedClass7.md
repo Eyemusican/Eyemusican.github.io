@@ -29,7 +29,7 @@ The keyword for the RAID is:
 ### Buffer Pool Management
 A database buffer pool is a cache in a database management system (DBMS) that stores frequently accessed data in memory, allowing quicker access.
 
-It is responsible for moving physical pages back and forth from main memory to disk. It allows a DBMS to support databases that are larger than the amount of memory that is available to the system
+It is responsible for moving physical pages back and forth from main memory to disk. It allows a DBMS to support databases that are larger than the amount of memory that is available to the system.
 
 ![alt text](../22.jpg)
 
