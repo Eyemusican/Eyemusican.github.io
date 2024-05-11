@@ -21,6 +21,8 @@ The above diagram is the preprocessing steps, that is used to convert raw data i
 Data preprocessing is crucial for Machine Learning because;
 ![alt text](../17.jpg)
 
+
+
 1. Essential to handle the missing values
 2. Cleans and organize the data
 3. Dimensionality Reduction
