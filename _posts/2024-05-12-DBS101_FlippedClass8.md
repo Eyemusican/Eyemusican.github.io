@@ -26,29 +26,29 @@ Bitmap indexes can be particularly useful when you have columns with low cardina
 #### Features of Bitmap Indexing:
 ---
 
- #### Space efficiency : 
+ 1. Space efficiency : 
  Compact binary representation for storing data, useful for large datasets with many attributes.
 
- #### Fast query processing:
+ 2. Fast query processing:
   Efficient for complex queries involving multiple attributes using set-based operations (AND, OR, NOT).
 
- #### Flexibility : 
+ 3. Flexibility : 
  Suitable for numerical, categorical, and text data types.
 
  #### Applications of Bitmap Indexing:
  ---
- #### Fast queries on large datasets:
+ 1. Fast queries on large datasets:
   Bitwise operations on bitmaps accelerate query execution, especially for complex conditions.
 
-#### Efficient range queries:
+ 2. Efficient range queries:
  Bitmaps for value ranges enable fast range queries on numeric or date columns.
 
-#### Space-efficient for low-cardinality columns:
+3.  Space-efficient for low-cardinality columns:
  More space-efficient than other indexing techniques for columns with few distinct values.
 
 
 ### How Bitmap Indexing is Done?
----
+
 
 Imagine you have a large table with many rows and columns. One of the columns, let's say "City," contains values like "New York," "Chicago," "Los Angeles," and so on. A bitmap index is a way to represent the data in this column more efficiently.
 ![alt text](<../Screenshot (137).png>)
@@ -118,7 +118,7 @@ Indexing spatial and temporal data means arranging geographic and time-based inf
 1. Tracking moving objects: Spatio-temporal indexing enables efficient tracking and analysis of objects that change location over time, such as vehicles, animals, or weather systems.
 
 2. Environmental monitoring and forecasting: Indexing environmental data with both spatial and temporal components allows for monitoring environmental changes across different geographic regions over time and forecasting future scenarios.
----
+
 ### When Indexing of Spatial and Temporal Data used
 1. ![alt text](../location.jpg)
 
