@@ -135,6 +135,10 @@ In a weather forecasting system, spatio-temporal indexing is used to study and p
 ---
 A Buffer Tree is a data structure used for indexing moving objects in databases, particularly in spatio-temporal databases. It is designed to handle the efficient storage, retrieval, and querying of data related to objects that change their positions over time, such as vehicles, aircraft, or mobile devices.
 
+![alt text](../mqdefault.jpg)
+
+This technique helps reduce wasted space and makes better use of available memory by efficiently reusing buffers of different sizes as needed.
+
 #### Features of Buffer Tree:
 1. Hierarchical Structure: The Buffer Tree is a type of hierarchical data structure, similar to an R-Tree, often used as a spatial index. It arranges data into layers of nested nodes. Each node represents a specific area in space and holds information about objects or other nested nodes inside it.
 
@@ -146,6 +150,24 @@ A Buffer Tree is a data structure used for indexing moving objects in databases,
 1. Location-Based Services (LBS): Used to index real-time locations of moving vehicles (e.g., ride-sharing drivers) for efficient matching with nearby users.
 
 2. Air Traffic Control: Efficient indexing and querying of aircraft trajectories, enabling better air traffic monitoring and management.
+
+
+
+
+### Class activities
+---
+In our class, we focused on the topic of indexing. The lecturer divided us into groups of four students each, forming a total of six groups labeled G1 to G6. After the initial group formation, we were further split into two larger quiz groups for discussion purposes. The six smaller groups were assigned different topics related to indexing, with G1 and G4 discussing indexing of spatial and temporal data, G2 and G5 (which was my group) exploring bitmap indices, and G3 and G6 discussing buffer trees. The groups were formed by selecting random papers containing different song lyrics, and students with the same song were placed in the same group.
+
+After that, we took 5 minutes to get into our small groups, and our lecturer had us sing the lyrics on paper, indicating that the same song lyrics were in the same group. My group then spent 25 minutes discussing and learning about bitmap indexing. After this first discussion, we joined the bigger quiz groups and continued our discussions for another 25 minutes. This allowed me to also learn about the other indexing topics like spatial/time-based indexing and buffer trees from the other groups.
+
+Finally, we took a quiz on indexing, which lasted for 30 minutes. Throughout the class activities, I actively participated in group discussions, shared what I knew about bitmap indices, and also learned from my friends about the other indexing techniques. All this knowledge helped me during the quiz at the end.
+
+Feed-back
+---
+The class activities were very entertaining and unique, which allowed me to actively participate, as there was competition between two-large groups.
+
+
+
 
 
 
