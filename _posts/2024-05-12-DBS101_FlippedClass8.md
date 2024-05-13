@@ -37,13 +37,13 @@ Bitmap indexes can be particularly useful when you have columns with low cardina
 
  #### Applications of Bitmap Indexing:
  ---
- 1. Fast queries on large datasets:
+1. Fast queries on large datasets:
   Bitwise operations on bitmaps accelerate query execution, especially for complex conditions.
 
- 2. Efficient range queries:
+2. Efficient range queries:
  Bitmaps for value ranges enable fast range queries on numeric or date columns.
 
-3.  Space-efficient for low-cardinality columns:
+3. Space-efficient for low-cardinality columns:
  More space-efficient than other indexing techniques for columns with few distinct values.
 
 
@@ -51,7 +51,9 @@ Bitmap indexes can be particularly useful when you have columns with low cardina
 
 
 Imagine you have a large table with many rows and columns. One of the columns, let's say "City," contains values like "New York," "Chicago," "Los Angeles," and so on. A bitmap index is a way to represent the data in this column more efficiently.
+
 ![alt text](<../Screenshot (137).png>)
+
 Let's create a bitmap index on the "City" column. For each distinct value in the "City" column, we will create a bit vector with a length equal to the number of rows in the table.
 
 1. Bitmap for "New York":
