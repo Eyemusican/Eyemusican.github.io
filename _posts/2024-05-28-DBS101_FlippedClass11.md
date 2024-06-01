@@ -150,6 +150,17 @@ Two-phase locking has two phases;
 1. one is growing : where all the locks are being acquired by the transaction and,
 2. shrinking : where the locks held by the transaction are being released.
 
+
+### Latches
+Latches are like simple, fast locks that databases use to control access to shared stuff, such as data structures or memory spaces. They are designed to be quickly locked and unlocked, usually very fast, making them perfect for handling things that need to be accessed a lot in a database.
+
+Latches help ensure data consistency and prevent conflicts that can arise from concurrent access by multiple transactions or threads.
+
+#### Differences Between Locks and Latches
+![alt text](../latches.png)
+
+
+
 Time-based Protocols
 ---
 
